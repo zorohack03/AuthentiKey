@@ -47,11 +47,3 @@ Digital Signature Creator is a Python-based project that generates public and pr
 8. **Base64 Encoding**: Encodes the digital signature in Base64 format.
 9. **Key Export**: Exports the RSA public and private keys in PEM format.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit pull requests.
-
-
-## Contact
-
-For any questions or suggestions, feel free to open an issue or contact the project maintainer at [muthra434@gmail.com](mailto:muthra434@gmail.com).
